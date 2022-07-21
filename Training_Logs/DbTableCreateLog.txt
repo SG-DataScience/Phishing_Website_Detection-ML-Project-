@@ -1,0 +1,5 @@
+2020-02-16/16:36:34		Tables created successfully!!
+2020-02-16/17:27:48		Tables created successfully!!
+2022-07-10/20:59:20		Error while creating table: unable to open database file 
+2022-07-10/21:01:25		Error while creating table: unable to open database file 
+2022-07-10/21:33:17		Tables created successfully!!
